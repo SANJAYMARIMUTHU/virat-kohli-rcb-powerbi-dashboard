@@ -23,7 +23,7 @@ Interactive Power BI dashboard analyzing Virat Kohli's IPL performance for Royal
 
 ## Dashboard Preview
 
-Dashboard screenshot attached in repository.
+![Dashboard](dashboard_screenshot.jpg)
 
 ## Author
 
